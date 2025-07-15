@@ -23,7 +23,7 @@ A modern, animated landing page built with **React** and **Vite**, styled using 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/zentry-landing.git
+   git clone https://github.com/arashi-1/zentry-landing.git
    cd zentry-landing
    ```
 
